@@ -7,7 +7,7 @@ on:
       - v.**
 
 jobs:
-  springapp:
+  build:
 
     runs-on: ubuntu-latest
 
